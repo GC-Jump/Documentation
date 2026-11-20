@@ -36,3 +36,10 @@
 ### Sexta-feira
 - [ ] Editar vídeos no CapCut / Canva
 - [ ] Agendar posts para o fim de semana e registar métricas da semana
+
+
+---
+
+## 📚 Recursos de Apoio (Formação & Multimédia)
+
+* **Edição de Vídeo no Canva:** [Como EDITAR VÍDEOS no CANVA | Tutorial Completo](http://www.youtube.com/watch?v=NZEBIjlMknw) — Útil para criar vídeos curtos para redes sociais (Reels/TikTok/Stories), usar modelos prontos, fazer cortes simples, adicionar música/texto e exportar em MP4.
